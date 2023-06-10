@@ -12,6 +12,3 @@ This Project uses the GPLv3 License.
 # Gameplay
 The player controls the left paddle using the Up and Down Arrowkeys. </br>
 The right paddle ist controlled by the computer.</br>
-
-# Author
-*2018 slxfld*
